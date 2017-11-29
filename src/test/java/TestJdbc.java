@@ -12,7 +12,7 @@ public class TestJdbc extends BaseJunit4Test {
     public void testInsert() {
 
         Person person = new Person();
-        person.setId(2);
+        person.setId(5);
         person.setName("jwen");
         person.setAge(25);
 
